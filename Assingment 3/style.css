@@ -1,0 +1,23 @@
+*{
+    font-style: normal;
+    font-
+}
+.nav-main{
+    background-color:#323333;
+    height: 60px;
+    display: flex;
+    align-items:center;
+}
+header a{
+    text-decoration: none;
+    margin-right: 20px;
+    color: rgb(255, 255, 255);
+}
+.logo{
+    background-image: url(logo.png);
+    width: 55px;
+    height: 55px;
+    background-size:cover ;
+    margin-right: 20px;
+    margin-left: 10px;
+}
